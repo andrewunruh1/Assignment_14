@@ -1,3 +1,6 @@
+# Everything is in the Starter_Code folder
+
+
 # LSTM Stock Predictor
 
 ![deep-learning.jpg](Images/deep-learning.jpg)
